@@ -1,0 +1,37 @@
+{
+  "name": "jnj-onemd",
+  "version": "1.0.0",
+  "description": "JNJ-OneMD",
+  "main": "default.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://javedansari.visualstudio.com/DefaultCollection/Slalom/_git/JnJ-OneMD"
+  },
+  "keywords": [
+    "JNJ",
+    "OneMD"
+  ],
+  "author": "Javed Ansari",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^7.0.0",
+    "component-webpack-plugin": "^0.2.1",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-print": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^2.10.0",
+    "on-build-webpack": "^0.1.0",
+    "run-sequence": "^1.1.5",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.9.5",
+    "typescript": "^2.1.4",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
